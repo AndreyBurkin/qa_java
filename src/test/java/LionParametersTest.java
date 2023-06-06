@@ -35,7 +35,7 @@ public class LionParametersTest {
 
     @Test
     public void doesHaveManeReturnActualHasMane() throws Exception {
-        Lion lion = new Lion(sex);
+        Lion lion = new Lion(sex, feline);
         Assert.assertEquals(hasMane, lion.doesHaveMane());
     }
 }

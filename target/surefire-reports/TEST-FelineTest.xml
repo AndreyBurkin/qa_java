@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="FelineTest" time="0.018" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="FelineTest" time="0.016" errors="0" skipped="0">
   <properties>
-    <property name="idea.version" value="2022.3.2"/>
+    <property name="idea.version" value="2022.3.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.18+10-LTS"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.18_10\bin"/>
@@ -47,7 +47,7 @@
     <property name="java.class.path" value="C:\Users\Andre\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds-2.6.0.jar;C:\Users\Andre\AppData\Local\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\plugins\maven\lib\maven3\boot\plexus-classworlds.license"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.3.2 verify"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2022.3.3 verify"/>
     <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk11.0.18_10"/>
     <property name="user.language" value="ru"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -65,8 +65,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="FelineTest" name="getKittensWithoutParameters" time="0.007"/>
-  <testcase classname="FelineTest" name="eatMeatCallsGetFood" time="0.006"/>
-  <testcase classname="FelineTest" name="getFamilyCorrectReturn" time="0.003"/>
-  <testcase classname="FelineTest" name="getKittensWithParameter" time="0.002"/>
+  <testcase classname="FelineTest" name="getKittensWithoutParameters" time="0.008"/>
+  <testcase classname="FelineTest" name="eatMeatCallsGetFood" time="0.003"/>
+  <testcase classname="FelineTest" name="getFamilyCorrectReturn" time="0.002"/>
+  <testcase classname="FelineTest" name="getKittensWithParameter" time="0.003"/>
 </testsuite>
